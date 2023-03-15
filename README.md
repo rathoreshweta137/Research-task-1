@@ -35,7 +35,7 @@ Visualization:
 I'm using Scatter plots which is used to represent data: These can be used to show the relationship between sentiment and cluster, as shown in the code.
 We will visualize the results , you can see outputs in jupyter notebook code .
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Based on the analysis of the self-harm dataset using unsupervised learning techniques, we can draw the following conclusions and interpretations:
 
