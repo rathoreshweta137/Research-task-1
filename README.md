@@ -5,13 +5,13 @@ Self-Harm Detection using Sentiment Analysis, Topic Modeling, and Clustering
 This project aims to analyze a dataset of self-harm-related posts and identify patterns in the text using various techniques, including sentiment analysis, topic modeling, and clustering. The goal is to gain insights into the language and emotions behind self-harm, which can be useful for designing interventions or support systems.
 
 Prerequisites : 
-Python 3.x
-Pandas
-NumPy
-NLTK
-TextBlob
-Scikit-learn
-Matplotlib
+Python 3.x,
+Pandas,
+NumPy,
+NLTK,
+TextBlob,
+Scikit-learn,
+Matplotlib.
 
 In the given task, I have used various unsupervised learning techniques to analyze the self-harm dataset, which are:
 
